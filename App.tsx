@@ -167,7 +167,7 @@ const App: React.FC = () => {
   const getButtonClassName = (label: string, isZero: boolean) => {
     // Botones de operación (naranjas)
     if (['÷', '×', '-', '+', '='].includes(label)) {
-        return 'bg-[#FF9500] text-white hover:bg-[#D97706]';
+        return 'bg-red-600 text-white hover:bg-red-700';
     }
     // Botones modificadores (grises claros)
     if (['AC', '+/-', '%'].includes(label)) {
