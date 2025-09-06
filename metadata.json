@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora Simple",
+  "description": "Una calculadora simple y elegante construida con React y Tailwind CSS que puede realizar operaciones aritméticas básicas: suma, resta, multiplicación y división.",
+  "requestFramePermissions": []
+}
